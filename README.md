@@ -1,2 +1,2 @@
-# Proyecto
+## Proyecto
 Trabajo Práctico 1
