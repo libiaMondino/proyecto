@@ -1,4 +1,4 @@
-<img width="1000" height="450" alt="Juegos" src="https://github.com/user-attachments/assets/f2efa07a-8ee9-4a05-9898-4de41db761a9" />
+<img width="950" height="350" alt="Juegos" src="https://github.com/user-attachments/assets/f2efa07a-8ee9-4a05-9898-4de41db761a9" />
 
 # ¿Qué es UTN clothes?
 UTN CLOTHES es un proyecto académico, el cual simula una *página web e-commerce* de indumentaria. Permite a los usuarios navegar por un catálogo de productos y agregar estos mismos al carrito. 
